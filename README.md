@@ -8,6 +8,9 @@ Aplicação API TESTE COMMIT
 - Git
 - Docker
 
+
+aaaa
+
 ## Build e execução
 
 ```sh
