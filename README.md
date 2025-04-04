@@ -7,7 +7,6 @@ Aplicação API TESTE COMMIT
 - Java 21
 - Git
 - Docker
-aaa
 
 ## Build e execução
 
