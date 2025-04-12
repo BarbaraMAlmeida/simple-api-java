@@ -9,7 +9,6 @@ Aplicação API TESTE COMMIT
 - Docker
 
 
-aaaa
 
 ## Build e execução
 
