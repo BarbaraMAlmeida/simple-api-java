@@ -11,6 +11,7 @@ Aplicação API TESTE COMMIT
 
 
 ## Build e execução
+aa
 
 ```sh
 docker compose up --build
